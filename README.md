@@ -1,4 +1,4 @@
-# Motor-interfacing-with-Utrasonic
+# Motor-interfacing-with-Ultrasonic
 
 ## Routine
 This Project is responsible for controlling DC motor through Ultrasonic readings
